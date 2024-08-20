@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\bin\Debug\net8.0\ThemPhanTu.exe
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\bin\Debug\net8.0\ThemPhanTu.deps.json
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\bin\Debug\net8.0\ThemPhanTu.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\bin\Debug\net8.0\ThemPhanTu.dll
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\bin\Debug\net8.0\ThemPhanTu.pdb
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ThemPhanTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ThemPhanTu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ThemPhanTu.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ThemPhanTu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ThemPhanTu.dll
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\refint\ThemPhanTu.dll
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ThemPhanTu.pdb
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ThemPhanTu.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\ThemPhanTu\obj\Debug\net8.0\ref\ThemPhanTu.dll
